@@ -1,0 +1,13 @@
+Название базы данных: fyuchi;
+
+Название таблицы: comments;
+
+     Имя         Тип        Дополнительно 
+
+1)   id         int(11)     AUTO_INCREMENT
+
+2)  username    varchar(30) 
+
+3)  comment     text   
+
+4)  date        varchar(30) 
